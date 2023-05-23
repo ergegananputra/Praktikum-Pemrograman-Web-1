@@ -2,6 +2,6 @@
 # Adiel Boanerge G
 
 # Branch:
-- Main
-- Pertemuan 11
+- Main (default)
+- Pertemuan-11
 - ...
